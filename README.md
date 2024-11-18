@@ -1,14 +1,34 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fca503&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fca503&size=35&center=true&vCenter=true&width=1000&lines=Hii,+my+name+is+Nanda+Ordonho;I'm+19+years+old;I'm+from+Brazil;I'm+Studying+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a6cf1&height=120&section=header"/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nandaord&show_icons=true&count_private=true&hide_border=true&title_color=fca503&icon_color=fca503&text_color=c9d1d9&bg_color=0d1117" alt="Nanda Ordonho github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandaord&layout=compact&hide_border=true&title_color=fca503&text_color=fca503&bg_color=0d1117" />
+  <h1>Hi, I'm <span style="color:#0a6cf1;">Nanda Ordonho</span> 👋</h1>
+  <p>🎓 Computer Science Student | 💻 Developer | 🌎 From Brazil</p>
 </div>
 
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nandaord&show_icons=true&count_private=true&hide_border=true&title_color=0a6cf1&icon_color=0a6cf1&text_color=c9d1d9&bg_color=0d1117" alt="Nanda Ordonho's GitHub Stats"/>
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandaord&layout=compact&hide_border=true&title_color=0a6cf1&text_color=c9d1d9&bg_color=0d1117&border_color=0a6cf1" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nandaord&bg_color=0d1117&color=f97403&line=fcbb53&point=ffd49e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fca503&height=120&section=footer"/>
+<div align="center">
+  <h3>🚀 Technologies & Tools</h3>
+  <img src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=0a6cf1"/>
+  <img src="https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=0a6cf1"/>
+  <img src="https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3&logoColor=0a6cf1"/>
+  <img src="https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=0a6cf1"/>
+  <img src="https://img.shields.io/badge/-SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=0a6cf1"/>
+</div>
+
+<div align="center">
+  <h3>🌟 Let's Connect</h3>
+  <a href="https://www.linkedin.com/in/nandaord" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a6cf1" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/nandaord" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=0a6cf1" alt="GitHub"/>
+  </a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a6cf1&height=120&section=footer"/>
