@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a6cf1&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a6cf1&height=120&section=header"/>
 
 <div align="center">  
   <h1>Hi, I'm <span style="color:#0a6cf1;">Nanda Ordonho</span> 👋</h1>
@@ -15,7 +15,10 @@
   <img src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=0a6cf1"/>
   <img src="https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=0a6cf1"/>
   <img src="https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3&logoColor=0a6cf1"/>
-  <img src="https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=0a6cf1"/>
+  <img src="https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=java&logoColor=0a6cf1"/>
+  <img src="https://img.shields.io/badge/-C-0d1117?style=for-the-badge&logo=c&logoColor=0a6cf1"/>
+  <img src="https://img.shields.io/badge/-Django-0d1117?style=for-the-badge&logo=django&logoColor=0a6cf1"/>
+  <img src="https://img.shields.io/badge/-SpringBoot-0d1117?style=for-the-badge&logo=springboot&logoColor=0a6cf1"/>
   <img src="https://img.shields.io/badge/-SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=0a6cf1"/>
 </div>
 
@@ -25,10 +28,8 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a6cf1" alt="LinkedIn"/>
   </a>
   <a href="mailto:mfso@cesar.school">
-  <img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=0a6cf1" alt="Email"/>
-</a>
-
-
+    <img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=0a6cf1" alt="Email"/>
+  </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a6cf1&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a6cf1&height=120&section=footer"/>
