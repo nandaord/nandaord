@@ -10,6 +10,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandaord&layout=compact&hide_border=true&title_color=0a6cf1&text_color=c9d1d9&bg_color=0d1117&border_color=0a6cf1" />
 </div>
 
+
 <div align="center">
   <h3>🚀 Technologies & Tools</h3>
   <img src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=0a6cf1"/>
