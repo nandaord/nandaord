@@ -6,10 +6,9 @@
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nandaord&show_icons=true&count_private=true&hide_border=false&title_color=0a6cf1&icon_color=0a6cf1&text_color=c9d1d9&bg_color=000000&border_color=ffffff" alt="Nanda Ordonho's GitHub Stats"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandaord&layout=compact&bg_color=000000&hide_border=false&border_color=ffffff&langs_color=ffffff&text_color=ffffff" alt="Top Languages"/>
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=nandaord&show_icons=true&count_private=true&hide_border=false&title_color=0a6cf1&icon_color=0a6cf1&text_color=c9d1d9&bg_color=000000&border_color=ffffff" alt="Nanda Ordonho's GitHub Stats"/>
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandaord&layout=compact&bg_color=000000&hide_border=false&border_color=ffffff&langs_color=ffffff&text_color=ffffff" alt="Top Languages"/>
 </div>
-
 
 <div align="center">
   <h3>🚀 Technologies & Tools</h3>
